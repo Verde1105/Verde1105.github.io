@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: HR의 책장
 description: > # this means to ignore newlines until "baseurl:"
-  Material theme based on <a href="http://materializecss.com">Materialize.css</a> for jekyll sites
+  페이지를 손수 뜯어고치는 중 <a href="https://verde1105.github.io/projects">HR의 책들</a>
 baseurl: "/"
 url: "https://Verde1105.github.io"
 permalink: /:year/:month/:day/:title
@@ -26,7 +26,7 @@ paginate: 5
 github_profile: "https://github.com/Verde1105"
 user: "황혜림"
 user_email: "lunaflo@naver.com"
-contact_url: "https://goo.gl/tVljbV"
+#contact_url: "https://goo.gl/tVljbV" #의견을 보낼수있는 페이지, 우선 #으로 경로 죽여놓겠음
 google_tracking_id: "UA-96359860-1"
 google_site_verification: "UA-96359860-1"
 # disqus_shortname: "matjek"
