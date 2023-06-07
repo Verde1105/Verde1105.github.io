@@ -16,7 +16,7 @@
 title: HR의 책장
 description: > # this means to ignore newlines until "baseurl:"
   페이지를 손수 뜯어고치는 중 <a href="https://verde1105.github.io/projects">HR의 책들</a>
-baseurl: "/"
+baseurl: ""
 url: "https://Verde1105.github.io"
 permalink: /:year/:month/:day/:title
 repository: Verde1105/thejoeunTeam2
@@ -34,7 +34,8 @@ disqus_shortname: "타이틀을 원하는"
 
 # Build settings
 markdown: kramdown
-gems:
+# gems:
+plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-seo-tag

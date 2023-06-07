@@ -1,9 +1,9 @@
 ---
-#layout: post
-#title:  "This is Just Another Post"
-#date:   2017-03-25 01:30:13 +0800
-#categories: default
-#tags: test
+layout: post
+title:  "This is Just Another Post"
+date:   2017-03-25 01:30:13 +0800
+categories: default
+tags: test
 ---
 I have some text.
 
